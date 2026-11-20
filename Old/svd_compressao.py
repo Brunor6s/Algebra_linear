@@ -17,7 +17,7 @@ from PIL import Image
 # ---------------------------------------------------------------
 # 1) CONFIGURAÇÃO
 # ---------------------------------------------------------------
-CAMINHO = sys.argv[1] if len(sys.argv) > 1 else "heitor.jpg"
+CAMINHO = sys.argv[1] if len(sys.argv) > 1 else "alisson.jpg"
 VALORES_K = [2, 5, 20, 50, 100]  # quantos valores singulares manter
 
 
